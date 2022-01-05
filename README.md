@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexdomingues
+- 👋 Hi, I’m Alexandre Domingues : @alexdomingues
 - 👀 I’m interested in software development and product development
 - 🌱 I’m currently learning Blazor
 - 📫 How to reach me: alexandre.filipe.domingues@gmail.com
