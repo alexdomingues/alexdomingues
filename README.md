@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandre Domingues : @alexdomingues
 - 👀 I’m interested in software development and product development
-- 🌱 I’m currently learning Blazor, Angular, Typescript, CSS, Bootstrap, C#, .NetCore
+- 🌱 I’m currently learning Blazor, Angular, Typescript, CSS, Bootstrap, Nativescript
 - 📫 How to reach me: alexandre.filipe.domingues@gmail.com
 
 <!---
